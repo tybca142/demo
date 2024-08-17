@@ -1,1 +1,9 @@
-Hello bhuri
+2. fake upi QRcode
+3. Screenshot
+4. vishing
+5. fraud seller
+6. fraud through screen monitoring app
+7. malware
+8. money mole
+9. sim cloning
+10. collect request from upi
